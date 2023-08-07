@@ -4,6 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 #new line for CI test
 #New line Aug-03
+#New test for Selenium
 
 trigger:
 - master
