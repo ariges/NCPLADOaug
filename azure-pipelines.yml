@@ -5,7 +5,7 @@
 #new line for CI test
 #New line Aug-03
 #New test for Selenium
-# for test prod URL
+#test for CI/CD with test case
 
 trigger:
 - master
